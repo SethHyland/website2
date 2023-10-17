@@ -6,3 +6,23 @@ body {
     color: rgb(190, 51, 149);
     margin-left: 20px;
   }
+
+  .photo { border: 2px; }
+
+  .myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    }
+
+  .personal {
+    border: 5px outset rgb(226, 24, 245);
+    background-color: rgb(93, 96, 255);
+    text-align: center;
+    }
+
+    .hobbies {
+      border: 5px outset rgb(245, 68, 24);
+      background-color: rgb(255, 62, 168);
+      text-align: center;
+    }
